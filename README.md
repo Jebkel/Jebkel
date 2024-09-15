@@ -32,4 +32,4 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Jebkel">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Jebkel&layout=compact">
